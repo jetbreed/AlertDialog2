@@ -10,7 +10,8 @@ import androidx.appcompat.app.AlertDialog;
 import androidx.appcompat.app.AppCompatActivity;
 
 
-public class MainActivity extends AppCompatActivity implements View.OnClickListener{
+public class MainActivity extends AppCompatActivity
+        implements View.OnClickListener{
     Button dialog1,dialog2,dialog3,dialog4;
 
     @Override
